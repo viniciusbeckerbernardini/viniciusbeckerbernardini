@@ -1,0 +1,353 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Vinícius B. Bernardini",
+    "label": "Senior Full Stack Developer",
+    "image": "",
+    "email": "vbkmma@gmail.com",
+    "phone": "",
+    "url": "",
+    "summary": "I am a professional trained in IT by IQ, a student in the course of Systems Analysis and Development by FADERGS, i am passionate for technology and how it can help people achieve their goals in a simpler and more agile way.",
+    "location": {
+      "countryCode": "BR",
+      "address": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "vinicius-b-bernardini",
+        "url": "https://www.linkedin.com/in/vinicius-b-bernardini/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Bonuz",
+      "position": "Senior Full Stack Developer",
+      "startDate": "2021-04-30",
+      "endDate": "",
+      "highlights": [],
+      "summary": "I'm part of Bonuz's IT team, working on finding solutions, improvements and corrections for the platform and developing proposed solutions\n\nMain activities carried out:\n\n• Architectural design of new systems\n• Development and maintenance of internal systems\n• Code reviews\n• System deployments\n• Server maintenance\n• Project versioning\n• Sprint planning",
+      "url": "https://www.linkedin.com/company/bonuz/"
+    },
+    {
+      "name": "Laureate International Universities",
+      "position": "Systems Analyst",
+      "startDate": "2020-12-31",
+      "endDate": "2021-04-30",
+      "highlights": [],
+      "summary": "I was part of the EAD analysis and development team for academic management systems at Laureate International Universities.\n\nI acted as a systems analyst in relation to the survey for solutions and as a developer carrying out the proposed solutions.\n\nMain activities carried out:\n\n• Development and maintenance of the academic system that served AI's across the country\n• Development of internal projects for integration between the institution's and third-party systems through APIs\n• Code reviews",
+      "url": "https://www.linkedin.com/school/laureate-education/"
+    },
+    {
+      "name": "Computecnica Tecnologia",
+      "position": "Mid level PHP developer",
+      "startDate": "2019-07-31",
+      "endDate": "2020-12-31",
+      "highlights": [],
+      "summary": "I was part of the EAD analysis and development team for the academic management systems at Laureate International Universities.\n\nI worked as a systems analyst in relation to the survey for solutions and as a developer carrying out the proposed solutions.",
+      "url": "https://www.linkedin.com/company/computecnicatecnologia/"
+    },
+    {
+      "name": "Alright Media Technology Hub",
+      "position": "Web Analyst",
+      "startDate": "2018-03-31",
+      "endDate": "2019-07-31",
+      "highlights": [],
+      "summary": "I was part of Alright's PTD (Publisher Trending Desk) team where I worked as an analyst and developer researching technologies so that we could help partner content producers to have better income.\n\nIn addition to the news portals developed using Wordpress technology, I was also part of several researches and developments within the company.\n\nMain activities carried out:\n\n• Research and development of algorithms aimed at optimizing websites for programmatic media;\n• Development and maintenance of internal systems to improve and control the company's processes;\n• Maintenance and optimization of partner sites to obtain better results;\n• Development of news portals for partners;\n• Development of api's for integration of news portals with mobile applications;\n• Creation and maintenance of servers for testing, development and production environments",
+      "url": "https://www.linkedin.com/company/alrightmediatech/",
+      "location": "Porto Alegre Area, Brazil"
+    },
+    {
+      "name": "Ondaweb",
+      "position": "Web developer",
+      "startDate": "2018-01-31",
+      "endDate": "2018-03-31",
+      "highlights": [],
+      "summary": "I started my IT career at Ondaweb, I started with the support where I maintained the institutional websites developed by the company, which were mostly developed in Wordpress.\n\nWith the experience giving support and understanding the structure of the CMS, I started to develop websites in addition to taking care of the company's support sector.\n\nMain activities carried out:\n\n• Maintenance of institutional websites making changes and corrections to implemented features\n• Development of pages in Wordpress\n• Creation of landing pages in HTML/CSS\n• Customer service",
+      "url": "https://www.linkedin.com/company/ondaweb/",
+      "location": "Porto Alegre"
+    },
+    {
+      "name": "Ondaweb",
+      "position": "IT intern",
+      "startDate": "2017-08-31",
+      "endDate": "2018-01-31",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/ondaweb/"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "FTEC ",
+      "area": "Ciência da Computação",
+      "studyType": "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+      "startDate": "2022-08-31",
+      "endDate": "2024-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "FADERGS",
+      "area": "Information of Technology",
+      "studyType": "System Analysis and Development",
+      "startDate": "2018-12-31",
+      "endDate": "2020-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "QI Faculdade & Escola Técnica",
+      "area": "Tecnologia da Informação",
+      "studyType": "QI Faculdade & Escola Técnica",
+      "startDate": "2016-12-31",
+      "endDate": "2017-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Curso de PHP Avançando com OO.",
+      "issuer": "School of Net",
+      "startDate": "2022-11-30",
+      "url": "http://www.schoolofnet.com/validar-certificado/validate/number/96abd145-0d52-4904-bb57-4cdc96128159/"
+    },
+    {
+      "name": "Metodologia de Desenvolvimento Ágil",
+      "issuer": "EAD Laureate",
+      "startDate": "2020-05-31"
+    },
+    {
+      "name": "Curso Completo de PHP7",
+      "issuer": "Udemy",
+      "startDate": "2019-12-31",
+      "url": "https://www.udemy.com/certificate/UC-0G50BYON/"
+    },
+    {
+      "name": "Minha primeira aplicação React Native",
+      "issuer": "DevMedia",
+      "startDate": "2019-10-31",
+      "url": "https://www.devmedia.com.br/cursos/certificado/?id=61142"
+    },
+    {
+      "name": "Minha Primeira Single Page Application com React",
+      "issuer": "DevMedia",
+      "startDate": "2019-09-30",
+      "url": "https://www.devmedia.com.br/cursos/certificado/?id=58427"
+    },
+    {
+      "name": "Primeiros passos com React",
+      "issuer": "DevMedia",
+      "startDate": "2019-09-30",
+      "url": "https://www.devmedia.com.br/cursos/certificado/?id=58429"
+    },
+    {
+      "name": "O que é MVC?",
+      "issuer": "DevMedia",
+      "startDate": "2019-08-31",
+      "url": "https://www.devmedia.com.br/cursos/certificado/?id=58428"
+    },
+    {
+      "name": "Curso de PostgreSQL",
+      "issuer": "DevMedia",
+      "startDate": "2019-07-31",
+      "url": "https://www.devmedia.com.br/cursos/certificado/?id=56214"
+    },
+    {
+      "name": "O que é Python? ",
+      "issuer": "DevMedia",
+      "startDate": "2019-07-31",
+      "url": "https://www.devmedia.com.br/cursos/certificado/?id=55825"
+    },
+    {
+      "name": "O que é docker? ",
+      "issuer": "DevMedia",
+      "startDate": "2019-07-31",
+      "url": "https://www.devmedia.com.br/cursos/certificado/?id=55323"
+    },
+    {
+      "name": "Introdução ao Laravel 5.3",
+      "issuer": "Udemy Brasil",
+      "startDate": "2018-04-30",
+      "url": "https://www.udemy.com/certificate/UC-E61KCCOH/"
+    },
+    {
+      "name": "Wordpress: Crie temas do zero com bootstrap 3\n",
+      "issuer": "Udemy",
+      "startDate": "2018-02-28",
+      "url": "https://www.udemy.com/certificate/UC-7N7MTVEG/"
+    },
+    {
+      "name": "Técnico em tecnologia da informação",
+      "issuer": "QI Faculdade & Escola Técnica",
+      "startDate": "2017-12-31"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "nodejs",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "API do Google",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Amazon EC2",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Slim Framework · Vuejs · RabbitMQ · PHP · PostgreSQL · Laravel · Jquery · Docker",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Slim Framework",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Vuejs",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "RabbitMQ",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MongoDB",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PHP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Javascript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Scrum",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Node.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "WordPress",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CSS3",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Laravel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Jquery",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Ondaweb",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Docker",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CSS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "InfluxDB",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "pt",
+      "fluency": "Native Speaker"
+    },
+    {
+      "fluency": "Professional Working",
+      "language": "inglês "
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Airton Júnior Menerosa",
+      "reference": "Tive a honra de trabalhar com o Vinícius Bernardini na Alright AdTech Company, e tenho o prazer dizer que ele nunca foi somente um colega de trabalho. Mas sim, um irmão que a vida me deu! Comprometido, didático no modo de se expressar e um coração cheio amor pelo que faz. Um profissional que sabe fazer a diferença, e que aceita o desafio."
+    },
+    {
+      "name": "Bruno Lemos",
+      "reference": "Exímio profissional. Sempre soube resolver todas as situações operacionais, muito didático pra explicar questões de sistemas para quem não \"falava a mesma língua\". Além disso, ser humano incrível, sabe lidar com pessoas e grupos."
+    }
+  ],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
