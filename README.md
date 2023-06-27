@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusbeckerbernardini&show_icons=true)
+[![Vini's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusbeckerbernardini)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **viniciusbeckerbernardini/viniciusbeckerbernardini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
